@@ -10,7 +10,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 | **Logo & Icon** | Display on all platorms as brand image. | ✅ |
 | **Colour palette** | Synchronicity is key. | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/noto/specimen/Noto+Sans | ✅ |
-| **Tone of voice** | Chatty, Warm, Professional, Serious, Laid back | ✅ |
+| **Tone of voice** | Chatty, Warm, Professional, Serious, Laid back. | ✅ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?) | ❌ |
 
 ## Livestream Updates:
