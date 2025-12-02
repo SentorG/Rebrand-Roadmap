@@ -17,11 +17,11 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Update Picture, banner & panels** | Meow | ❌ |
-| **Sub & bit badges** | Meow | ❌ |
-| **Discord update** | Meow | ❌ |
-| **Emote replacement + seasonal** | Meow | ❌ |
-| **Bot name change** | Meow | ❌ |
+| **Update Picture, banner & panels** |  | ❌ |
+| **Sub & bit badges** | Logo Subs,  | ❌ |
+| **Discord update** |  | ❌ |
+| **Emote replacement + seasonal** | Halloween, Christmas | ❌ |
+| **Bot name change** |  | ❌ |
 | **Channel point redeems** | Digital card packs, emote commissons | ❌ |
 | **Old stream streaks** | Maybe? | ❌ |
 
