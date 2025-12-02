@@ -17,29 +17,31 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Update Picture, banner & panels** |  | ❌ |
-| **Sub & bit badges** | Logo Subs,  | ❌ |
-| **Discord update** |  | ❌ |
-| **Emote replacement + seasonal** | Halloween, Christmas | ❌ |
+| **Banners & panels** |  | ❌ |
+| **Sub & bit badges** | Negative space Red Panda face (subs), Party hats (bits). Border flares for T2 & 3. | ❌ |
+| **Discord update** | "The Treetops" - Red Pandas enjoy spending a lot of their sleeping hours high up in trees. Cubs (little), sow (female), boar (male), pack (multiple). | ❌ |
+| **Emote replacement + seasonal** | Halloween, Christmas. | ❌ |
 | **Bot name change** |  | ❌ |
-| **Channel point redeems** | Digital card packs, emote commissons | ❌ |
+| **Channel point redeems** | Digital card packs, emote commissons. | ❌ |
 | **Old stream streaks** | Maybe? | ❌ |
 
 ## OBS Scenes:
 Streamline and condense scenes.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Animations** | Meow | ❌ |
-| **Sounds** | Meow | ❌ |
-| **Alerts & Raids** | Meow | ❌ |
+| **Animations** | Keep some Lotad ones, like wee woo. Replace existing with new art. | ❌ |
+| **Sounds** | Maybe not much required. New ones? | ❌ |
+| **Alerts & Raids** | Total replace. | ❌ |
 
 ## Incentives:
-Come one, come all.
+Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (discounts & giveaways), custom commissions.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | **Marbb** | 6-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ❌ |
+| **Wheel spins** | People love a wheel spin, but what to put on it..? | ❌ |
+| **Digital stream card packs** | uuh | ❌ |
 
 ## Making Money:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Meow** | Meow | ❌ |
+| **uuh** | Coming soon™. | ❌ |
