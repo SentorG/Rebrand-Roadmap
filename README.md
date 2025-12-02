@@ -7,8 +7,8 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & Icon** | Display on all platorms as brand image. | ❌ |
-| **Colour palette** | Synchronicity is key. | ❌ |
+| **Logo & Icon** | Display on all platorms as brand image. | ✅ |
+| **Colour palette** | Synchronicity is key. | ✅ |
 | **Fonts** | //. | ❌ |
 | **Tone of voice** | //. | ❌ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?) | ❌ |
