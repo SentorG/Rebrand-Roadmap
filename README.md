@@ -7,12 +7,37 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Meow** | Meow | ❌ |
+| **Logo & Icon** | Display on all platorms as brand image. | ❌ |
+| **Colour palette** | Synchronicity is key. | ❌ |
+| **Fonts** | //. | ❌ |
+| **Tone of voice** | //. | ❌ |
+| **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?) | ❌ |
 
 ## Livestream Updates:
+Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Meow** | Meow | ❌ |
+| **Update Picture, banner & panels** | Meow | ❌ |
+| **Sub & bit badges** | Meow | ❌ |
+| **Discord update** | Meow | ❌ |
+| **Emote replacement + seasonal** | Meow | ❌ |
+| **Bot name change** | Meow | ❌ |
+| **Channel point redeems** | Digital card packs, emote commissons | ❌ |
+| **Old stream streaks** | Maybe? | ❌ |
+
+## OBS Scenes:
+Streamline and condense scenes.
+| **Update** | **Details** | **❌/✅** |
+|:-:|:-|:-:|
+| **Animations** | Meow | ❌ |
+| **Sounds** | Meow | ❌ |
+| **Alerts & Raids** | Meow | ❌ |
+
+## Incentives:
+Come one, come all.
+| **Update** | **Details** | **❌/✅** |
+|:-:|:-|:-:|
+| **Marbb** | 6-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ❌ |
 
 ## Making Money:
 | **Update** | **Details** | **❌/✅** |
