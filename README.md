@@ -7,7 +7,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & Icon** | Display on all platorms as brand image. | ✅ |
+| **Logo & Icon** | Display on all platorms as brand image. **Complete walk cycle**. | ❌ |
 | **Colour palette** | Synchronicity is key. | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, Warm, Professional, Serious, Laid back. | ✅ |
