@@ -7,11 +7,11 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & Icon** | Display on all platorms as brand image. **Complete walk cycle**. | ❌ |
+| **Logo & Icon** | Display on all platorms as brand image. **Complete walk cycle**. | ✅ |
 | **Colour palette** | Synchronicity is key. | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, Warm, Professional, Serious, Laid back. | ✅ |
-| **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ❌ |
+| **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ✅ |
 
 ## Livestream Updates:
 Putting design/production first, game later.
