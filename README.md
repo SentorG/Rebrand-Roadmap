@@ -7,7 +7,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & Icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ❌ |
+| **Logo & icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ❌ |
 | **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/Sentor%20Palette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, warm, professional, serious, laid back. | ✅ |
@@ -17,7 +17,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ❌ |
+| **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic. | ❌ |
 | **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ❌ |
 | **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ❌ |
