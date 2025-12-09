@@ -18,7 +18,7 @@ Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
-| **Channel points** | Bamboo vector graphic. | ❌ |
+| **Channel points** | Bamboo vector graphic. | ✅ |
 | **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ❌ |
 | **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ❌ |
 | **Emote replacement + seasonal** | Halloween, Christmas. | ❌ |
