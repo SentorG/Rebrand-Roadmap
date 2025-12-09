@@ -7,23 +7,24 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & Icon** | Display on all platorms as brand image. **Complete walk cycle**. | ✅ |
-| **Colour palette** | Synchronicity is key. | ✅ |
+| **Logo & Icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ❌ |
+| **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/Sentor%20Palette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
-| **Tone of voice** | Chatty, Warm, Professional, Serious, Laid back. | ✅ |
+| **Tone of voice** | Chatty, warm, professional, serious, laid back. | ✅ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ✅ |
 
 ## Livestream Updates:
 Putting design/production first, game later.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Banners & panels** |  | ❌ |
-| **Sub & bit badges** | Negative space Red Panda face (subs), Party hats (bits). Border flares for T2 & 3. | ❌ |
-| **Discord update** | "The Treetops" - Red Pandas enjoy spending a lot of their sleeping hours high up in trees. Cubs (little), sow (female), boar (male), pack (multiple). | ❌ |
+| **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ❌ |
+| **Channel points** | Bamboo vector graphic. | ❌ |
+| **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ❌ |
+| **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ❌ |
 | **Emote replacement + seasonal** | Halloween, Christmas. | ❌ |
-| **Bot name change** |  | ❌ |
+| **Banners & panels** | Replace & update. | ❌ |
 | **Channel point redeems** | Digital card packs, emote commissons. | ❌ |
-| **Old stream streaks** | Maybe? | ❌ |
+| **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
 
 ## OBS Scenes:
 Streamline and condense scenes.
@@ -38,10 +39,10 @@ Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (disc
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | **Marbb** | 6-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ❌ |
-| **Wheel spins** | People love a wheel spin, but what to put on it..? | ❌ |
-| **Digital stream card packs** | uuh | ❌ |
+| **Wheel spins** | To win sentor_bot's channel points. (50k) | ❌ |
+| **Digital stream card packs** | New art, one set of 50. Prize for full set. | ❌ |
 
 ## Making Money:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **uuh** | Coming soon™. | ❌ |
+| 😳 | Coming soon™ | ❌ |
