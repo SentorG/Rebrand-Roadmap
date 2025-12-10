@@ -38,6 +38,7 @@ Streamline and condense scenes.
 Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (discounts & giveaways), custom commissions.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
+| **Emotes** | Adore T2 emote, Bozo T3 emote. | ❌ |
 | **Marbb** | 6-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ❌ |
 | **Wheel spins** | To win sentor_bot's channel points. (50k) | ❌ |
 | **Digital stream card packs** | New art, one set of 50. Prize for full set. | ❌ |
