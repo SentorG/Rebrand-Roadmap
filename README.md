@@ -7,7 +7,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ❌ |
+| **Logo & icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ✅ |
 | **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/Sentor%20Palette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, warm, professional, serious, laid back. | ✅ |
