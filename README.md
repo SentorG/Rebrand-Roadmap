@@ -46,3 +46,4 @@ Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (disc
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | 😳 | Coming soon™ | ❌ |
+| **Frens** | Giant Panda, Raccoon, Brown Bear frens. Personable and marketable with little backstories and jobs etc. Coming soon™ | ❌ |
