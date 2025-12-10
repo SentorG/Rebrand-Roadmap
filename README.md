@@ -19,7 +19,7 @@ Putting design/production first, game later.
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic. | ✅ |
-| **Emote replacement + seasonal** | Halloween, Christmas. | ❌ |
+| **Emote replacement + seasonal** | **KEEP:** Shake, Fish, Unreal, Sit, OneLove<br><br>**NEW:** EZ, Pause,<br><br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ❌ |
 | **Channel point redeems** | Digital card packs, emote commissons. | ❌ |
 | **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
