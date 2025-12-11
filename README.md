@@ -7,11 +7,12 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 ## Brand Image:
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Logo & icon** | Display on all platorms as brand image.<br><br>**Complete walk cycle**. | ✅ |
+| **Logo & icon** | Display on all platforms as brand image.<br><br>**Complete walk cycle**. | ✅ |
 | **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/Sentor%20Palette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, warm, professional, serious, laid back. | ✅ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ✅ |
+| **Friends** | Giant Panda, Raccoon, Brown Bear frens. Personable and marketable with little backstories and jobs etc.<br><br>Coming soon™ | ❌ |
 
 ## Livestream Updates:
 Putting design/production first, game later.
@@ -47,4 +48,3 @@ Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (disc
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | 😳 | Coming soon™ | ❌ |
-| **Frens** | Giant Panda, Raccoon, Brown Bear frens. Personable and marketable with little backstories and jobs etc. Coming soon™ | ❌ |
