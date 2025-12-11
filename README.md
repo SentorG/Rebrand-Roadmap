@@ -10,9 +10,9 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 | **Logo & icon** | Display on all platforms as brand image.<br><br>**Complete walk cycle**. | ✅ |
 | **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/Sentor%20Palette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
-| **Tone of voice** | Chatty, warm, professional, serious, laid back. | ✅ |
+| **Tone of voice** | Chatty, warm, professional, laid back. | ✅ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ✅ |
-| **Friends** | Giant Panda, Raccoon, Brown Bear frens. Personable and marketable with little backstories and jobs etc.<br><br>Coming soon™ | ❌ |
+| **Friends** | Giant panda, raccoon and brown bear friends. Personable and marketable with simple backstories and jobs etc.<br><br>Coming soon™ | ❌ |
 
 ## Livestream Updates:
 Putting design/production first, game later.
@@ -20,7 +20,7 @@ Putting design/production first, game later.
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic. | ✅ |
-| **Emote replacement + seasonal** | **KEEP:** Shake, Fish, Unreal, Sit, OneLove<br><br>**NEW:** EZ, Pause,<br><br>Halloween, Christmas. | ❌ |
+| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Fish, Unreal, Sit (follower), OneLove, RIP.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, TinFoil, Angy, Looking, Snug, UwU, Check, Gun.<br>**(T1, animated)** Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, Bongo, DJ, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ❌ |
 | **Channel point redeems** | Digital card packs, emote commissons. | ❌ |
 | **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
