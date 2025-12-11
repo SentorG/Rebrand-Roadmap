@@ -20,7 +20,7 @@ Putting design/production first, game later.
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic. | ✅ |
-| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, Mlem, TinFoil, Angy, Looking, Sleep, UwU, Check, Gun.<br>**(T1, animated)** Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, OhYeah, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
+| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, Mlem, TinFoil, Angy, Looking, Sleep, UwU, Check, Gun, Monka.<br>**(T1, animated)** Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, OhYeah, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ❌ |
 | **Channel point redeems** | Digital card packs, emote commissons. | ❌ |
 | **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
