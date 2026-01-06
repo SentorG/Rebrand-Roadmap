@@ -20,7 +20,7 @@ Putting design/production first, game later.
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic.<br><br>"For halloween can we have bamBOOOs and make them blue and ethereal for the month?" | ✅ |
-| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, Mlem ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Shy, Check, Gun, Monka, Prayge.<br>**(T1, animated)** Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM ✅, OhYeah, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
+| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, Mlem ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Shy, Check, Gun, Monka, Prayge.<br>**(T1, animated)** Nodders, Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, OhYeah, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ❌ |
 | **Channel point redeems** | Digital card packs. Emote commissons. Banana. Change the lights colour. | ❌ |
 | **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
@@ -36,7 +36,7 @@ Streamline and condense scenes.
 | **Alerts & Raids** | Total replace. | ❌ |
 
 ## Incentives:
-Work towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (discounts & giveaways), custom commissions.
+Progress towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (discounts & giveaways), custom commissions.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | **Emotes** | Adore T2 emote, Bozo T3 emote. | ❌ |
