@@ -21,9 +21,9 @@ Putting design/production first, game later.
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic.<br><br>"For halloween can we have bamBOOOs and make them blue and ethereal for the month?" | ✅ |
 | **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe & Doubt.<br>**(T1, static)** EZ ✅, Pause ✅, Flower, Mlem ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Shy, Check, Gun, Monka, Prayge.<br>**(T1, animated)** Nodders, Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, OhYeah, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
-| **Banners & panels** | Replace & update. | ❌ |
+| **Banners & panels** | Replace & update. | ✅ |
 | **Channel point redeems** | Digital card packs. Emote commissons. Banana. Change the lights colour. | ❌ |
-| **Old stream streaks** | Launch day swap. Old streak command? | ❌ |
+| **Old stream streaks** | 2026 start. | ✅ |
 | **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ❌ |
 | **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ❌ |
 
