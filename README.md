@@ -22,10 +22,10 @@ Putting design/production first, game later.
 | **Channel points** | Bamboo vector graphic.<br><br>"For halloween can we have bamBOOOs and make them blue and ethereal for the month?" | ✅ |
 | **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe ✅ & Doubt ✅.<br>**(T1, static)** EZ ✅, Pause ✅, Flower ✅, Mlem ✅, Blush ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Check, Gun, Yikes, Pray.<br>**(T1, animated)** Nodders ✅, Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap ✅, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ✅ |
-| **Channel point redeems** | Digital card packs. Emote commissons. Banana. Change the lights colour. Shiny Lotad Stream Avatar. | ❌ |
+| **Channel point redeems** | Digital card packs (450). Emote commissons. Banana (2,500). Change the lights colour (25,000). Shiny Lotad Stream Avatar (150,000). Wheel spin  | ❌ |
 | **Old stream streaks** | 2026 start. | ✅ |
-| **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ❌ |
-| **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ❌ |
+| **Bot update** | **sentor_bot**<br><br>New banner, picture and bio. | ✅ |
+| **Discord update** | "The Treetops" - Red pandas enjoy spending a lot of their sleeping hours high up in trees. | ✅ |
 
 ## OBS Scenes:
 Streamline and condense scenes.
@@ -39,9 +39,9 @@ Streamline and condense scenes.
 Progress towards prizes.<br>E.g. sticker sheets, posters, holiday cards, merch (discounts & giveaways), custom commissions.
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
-| **Emotes** | Adore T2 emote, Bozo T3 emote. | ❌ |
-| **Marbb** | 6-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ❌ |
-| **Wheel spins** | Once per person, per stream.<br><br>Gifted sub. Win sentor_bot's channel points (50k). Set a time on SSX Tricky. Time out Spoopy. IRL sentor5Shake. Backwards cap. Sunglasses. | ❌ |
+| **Emotes** | Adore T2 emote, Bozo T3 emote. | ✅ |
+| **Marbb** | 4-month rotations. T2 for 1st & T1 for 2nd - OR other product. | ✅ |
+| **Wheel spins** | Once per person, per stream.<br><br>Gifted sub. Win sentor_bot's channel points (50k). Set a time on SSX Tricky. Time out Spoopy (15 mins). IRL sentor5Shake. Backwards cap (rest of stream). Sunglasses (rest of stream). | ❌ |
 | **Digital stream card packs** | New art, one set of 50. Prize for full set. | ❌ |
 
 ## Making Money:
