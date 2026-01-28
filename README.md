@@ -20,7 +20,7 @@ Putting design/production first, game later.
 |:-:|:-|:-:|
 | **Sub & bit badges** | Red panda paw outline (subs), party hats (bits), numbered flares for T2 & 3. | ✅ |
 | **Channel points** | Bamboo vector graphic.<br><br>"For halloween can we have bamBOOOs and make them blue and ethereal for the month?" | ✅ |
-| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe ✅ & Doubt ✅.<br>**(T1, static)** EZ ✅, Pause ✅, Flower ✅, Mlem ✅, Blush ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Check, Gun, Yikes, Pray.<br>**(T1, animated)** Nodders ✅, Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap ✅, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
+| **Emote replacement + seasonal** | **KEEP:**<br>Shake, Unreal, Ludi, Fish, RIP & Sit (follower), OneLove.<br><br>**NEW:<br>(Follower)** Raid, Believe ✅ & Doubt ✅.<br>**(T1, static)** EZ ✅, Pause ✅, Flower ✅, Mlem ✅, Blush ✅, TinFoil, Angy, Looking ✅, Sleep ✅, Check, Gun, Yikes, Pray.<br>**(T1, animated)** Nodders ✅, Happy/LUBBERS, Cry/Blubbies, Laugh, Arrive, Lurk, Pats, Bonk, JAM ✅, Brows, Wave, Notes, Gamba, Watch/Eat, Sip/Drink, Clap ✅, Party/Celebrate.<br>**(Bits)** Fren, Wow, Queen, Gold.<br><br>**SEASONAL:**<br>Halloween, Christmas. | ❌ |
 | **Banners & panels** | Replace & update. | ✅ |
 | **Channel point redeems** | Digital card packs (450). Emote commissons. Banana (2,500). Change the lights colour (25,000). Shiny Lotad Stream Avatar (150,000). Wheel spin  | ❌ |
 | **Old stream streaks** | 2026 start. | ✅ |
