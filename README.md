@@ -8,7 +8,7 @@ This GitHub page will serve as a roadmap of the rebrand and display what has bee
 | **Update** | **Details** | **❌/✅** |
 |:-:|:-|:-:|
 | **Logo & icon** | Display on all platforms as brand image.<br><br>**Complete walk cycle**. | ✅ |
-| **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/SentorPalette.png) | ✅ |
+| **Colour palette** | ![Colour Palette](https://github.com/SentorG/Rebrand-Roadmap/blob/main/ColourPalette.png) | ✅ |
 | **Fonts** | https://fonts.google.com/specimen/Schoolbell / https://fonts.google.com/specimen/Fredoka | ✅ |
 | **Tone of voice** | Chatty, warm, professional, laid back. | ✅ |
 | **Workflow** | Establish template files which content can be easily created from. (YouTube, Instagram, LinkedIn, TikTok?)<br><br>Fractal Noise on a solid obj > Evolution Options > Random Seed > Alt+Click > "time*10"/variation of > precomp > hide solid obj layer > Displacement Map on project > change displacement map to solid > tweak max horizontal/vertical values. | ✅ |
